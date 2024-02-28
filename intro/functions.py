@@ -1,0 +1,1 @@
+print("Your seat:", 4)
